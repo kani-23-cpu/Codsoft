@@ -1,20 +1,12 @@
-# Codsoft
-task 1
-# CodSoft Internship Task - Movie Rating Prediction with Python
+# CodSoft Internship Task 2
+Movie Rating Prediction with Python
 
 ## Introduction
 Movie Rating Prediction project involves building a model that predicts the rating of a movie based on features like genre, director, and actors. We use regression techniques to tackle this exciting problem. This enables us to explore data analysis, preprocessing, feature engineering, and machine learning modeling techniques
 
-## Goal
-The main goal of this project is to analyze historical movie data and develop a model that accurately estimates the rating given to a movie by users or critics. By doing so, we aim to provide insights into the factors that influence movie ratings and create a model that can estimate the ratings of movies accurately.
-
 ## Quick Link
 Dataset: [Movie Rating Prediction Dataset](https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies)
 
-## Technologies Used
-- Python
-- Jupyter Notebook
-- Libraries: pandas, numpy, scikit-learn, seaborn, and matplotlib
   
 ## Project Steps
 
